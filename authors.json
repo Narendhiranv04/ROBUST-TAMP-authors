@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "authors": [
+    {"name": "Narendhiran Vijayakumar", "marks": "1,†,*"},
+    {"name": "Puru Ojha", "marks": "1,†"},
+    {"name": "Nav Singhal", "marks": "1,†"},
+    {"name": "Girish Varma", "marks": "2"},
+    {"name": "Antony Thomas", "marks": "1"}
+  ],
+  "affiliations": [
+    {"mark": "1", "name": "Robotics Research Center, IIIT Hyderabad, India"},
+    {"mark": "2", "name": "Center for Security, Theory and Algorithmic Research, IIIT Hyderabad, India"}
+  ],
+  "equal_contribution": "Equal contribution",
+  "corresponding_email": "narendhiran.v@research.iiit.ac.in",
+  "logos": [
+    {"src": "img/rrc_logo.png", "href": "https://robotics.iiit.ac.in/", "alt": "Robotics Research Center, IIIT Hyderabad", "height": 52},
+    {"src": "img/cstar_logo.png", "href": "https://cstar.iiit.ac.in/", "alt": "Center for Security, Theory and Algorithmic Research, IIIT Hyderabad", "height": 62}
+  ],
+  "bibtex_author": "Vijayakumar, Narendhiran and Ojha, Puru and Singhal, Nav and Varma, Girish and Thomas, Antony",
+  "code_url": "https://github.com/Narendhiranv04/ROBUST-TAMP/tree/project-page",
+  "footer": "Robotics Research Center and Center for Security, Theory and Algorithmic Research, IIIT Hyderabad. Simulation videos replay recorded evaluation trials."
+}
